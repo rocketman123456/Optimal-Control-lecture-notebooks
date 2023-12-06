@@ -1,0 +1,15 @@
+[submodule "recitations"]
+	path = recitations
+	url = https://github.com/Optimal-Control-16-745/recitations.git
+[submodule "HW2_S23_solutions"]
+	path = HW2_S23_solutions
+	url = https://github.com/Optimal-Control-16-745/HW2_S23_solutions.git
+[submodule "HW1_S23_solutions"]
+	path = HW1_S23_solutions
+	url = https://github.com/Optimal-Control-16-745/HW1_S23_solutions.git
+[submodule "HW3_S23_solutions"]
+	path = HW3_S23_solutions
+	url = https://github.com/Optimal-Control-16-745/HW3_S23_solutions.git
+[submodule "HW0_S23_solutions"]
+	path = HW0_S23_solutions
+	url = https://github.com/Optimal-Control-16-745/HW0_S23_solutions.git
